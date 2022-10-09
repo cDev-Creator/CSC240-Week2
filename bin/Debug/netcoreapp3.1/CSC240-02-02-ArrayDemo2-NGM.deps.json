@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CSC240-02-02-ArrayDemo2-NGM/1.0.0": {
+        "runtime": {
+          "CSC240-02-02-ArrayDemo2-NGM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSC240-02-02-ArrayDemo2-NGM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

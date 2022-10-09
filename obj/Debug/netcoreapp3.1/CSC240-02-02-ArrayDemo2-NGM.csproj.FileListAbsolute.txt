@@ -1,0 +1,14 @@
+C:\Users\mccoy\source\repos\CSC240-02-02-ArrayDemo2-NGM\CSC240-02-02-ArrayDemo2-NGM\bin\Debug\netcoreapp3.1\CSC240-02-02-ArrayDemo2-NGM.exe
+C:\Users\mccoy\source\repos\CSC240-02-02-ArrayDemo2-NGM\CSC240-02-02-ArrayDemo2-NGM\bin\Debug\netcoreapp3.1\CSC240-02-02-ArrayDemo2-NGM.deps.json
+C:\Users\mccoy\source\repos\CSC240-02-02-ArrayDemo2-NGM\CSC240-02-02-ArrayDemo2-NGM\bin\Debug\netcoreapp3.1\CSC240-02-02-ArrayDemo2-NGM.runtimeconfig.json
+C:\Users\mccoy\source\repos\CSC240-02-02-ArrayDemo2-NGM\CSC240-02-02-ArrayDemo2-NGM\bin\Debug\netcoreapp3.1\CSC240-02-02-ArrayDemo2-NGM.runtimeconfig.dev.json
+C:\Users\mccoy\source\repos\CSC240-02-02-ArrayDemo2-NGM\CSC240-02-02-ArrayDemo2-NGM\bin\Debug\netcoreapp3.1\CSC240-02-02-ArrayDemo2-NGM.dll
+C:\Users\mccoy\source\repos\CSC240-02-02-ArrayDemo2-NGM\CSC240-02-02-ArrayDemo2-NGM\bin\Debug\netcoreapp3.1\CSC240-02-02-ArrayDemo2-NGM.pdb
+C:\Users\mccoy\source\repos\CSC240-02-02-ArrayDemo2-NGM\CSC240-02-02-ArrayDemo2-NGM\obj\Debug\netcoreapp3.1\CSC240-02-02-ArrayDemo2-NGM.csproj.AssemblyReference.cache
+C:\Users\mccoy\source\repos\CSC240-02-02-ArrayDemo2-NGM\CSC240-02-02-ArrayDemo2-NGM\obj\Debug\netcoreapp3.1\CSC240-02-02-ArrayDemo2-NGM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mccoy\source\repos\CSC240-02-02-ArrayDemo2-NGM\CSC240-02-02-ArrayDemo2-NGM\obj\Debug\netcoreapp3.1\CSC240-02-02-ArrayDemo2-NGM.AssemblyInfoInputs.cache
+C:\Users\mccoy\source\repos\CSC240-02-02-ArrayDemo2-NGM\CSC240-02-02-ArrayDemo2-NGM\obj\Debug\netcoreapp3.1\CSC240-02-02-ArrayDemo2-NGM.AssemblyInfo.cs
+C:\Users\mccoy\source\repos\CSC240-02-02-ArrayDemo2-NGM\CSC240-02-02-ArrayDemo2-NGM\obj\Debug\netcoreapp3.1\CSC240-02-02-ArrayDemo2-NGM.csproj.CoreCompileInputs.cache
+C:\Users\mccoy\source\repos\CSC240-02-02-ArrayDemo2-NGM\CSC240-02-02-ArrayDemo2-NGM\obj\Debug\netcoreapp3.1\CSC240-02-02-ArrayDemo2-NGM.dll
+C:\Users\mccoy\source\repos\CSC240-02-02-ArrayDemo2-NGM\CSC240-02-02-ArrayDemo2-NGM\obj\Debug\netcoreapp3.1\CSC240-02-02-ArrayDemo2-NGM.pdb
+C:\Users\mccoy\source\repos\CSC240-02-02-ArrayDemo2-NGM\CSC240-02-02-ArrayDemo2-NGM\obj\Debug\netcoreapp3.1\CSC240-02-02-ArrayDemo2-NGM.genruntimeconfig.cache
